@@ -2,7 +2,7 @@
 A maintainable source code file shall have no more than 50 lines of code in any programming language.
 
 ## The Law of 50LOC
-> Any source code file of more than 50 lines of code requires revisits in the near future.
+> Any source code file of more than 50 lines of code requires revisiting in the near future.
 
 ## Benefits
 * Fewer code regression (modifying old code files)
