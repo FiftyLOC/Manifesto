@@ -1,4 +1,4 @@
-# 50LOC Programming Style Manifesto
+# The 50LOC Programming Style Manifesto
 A maintainable and composable source code file shall have no more than 50 lines of code in any programming language.
 
 ## The Law of 50LOC
