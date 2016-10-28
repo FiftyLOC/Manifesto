@@ -6,7 +6,7 @@ A maintainable source code file shall have no more than 50 lines of code in any 
 
 ## Benefits
 * Fewer code regression (modifying old source code)
-* Reenforce clear separation of code responsibility
+* Reinforce clear separation of code responsibility
 * No more refactoring days
 * Scalable and maintainable code base
 
